@@ -217,7 +217,7 @@ z-index: -1;
   }
 #hero
 {
-	background-image: url(/img/hero\ section.jpg);
+	background-image: url(img/hero\ section.jpg);
 	background-size: cover;
 	background-position:top center;
 	position: relative;
@@ -312,7 +312,7 @@ margin: 0 auto;
 	flex-direction: column;
 	padding: 30px;
 	border-radius: 10px;
-	background-image: url(/img/development2.jpg);
+	background-image: url(img/development2.jpg);
 	background-size: cover;
 	margin: 10px 5%;
 	position: relative;
